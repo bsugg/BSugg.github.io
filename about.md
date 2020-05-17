@@ -10,6 +10,6 @@ Student in ST558 at NCSU.
 
 A new user to GitHub!
 
-### Contact me in the near future...
+### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bjsugg@ncsu.edu](mailto:bjsugg@ncsu.edu)

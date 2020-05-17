@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student in in ST558 at NCSU.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A new user to GitHub!
 
 ### Contact me
 

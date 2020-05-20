@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Student in ST558 at NCSU.
+I am a student in ST558 as part of the Master of Statistics program at NCSU.
 
 ### More Information
-
-A new user to GitHub!
+Recently joined the GitHub community, and have enjoyed learning about R Markdown!
 
 ### Contact me
 
